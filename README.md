@@ -23,3 +23,5 @@ THIS BELONGS TO THE GIYUU YUME
 ![stamp](https://i.imgur.com/oc7ss7d.png)![stamp](https://i.imgur.com/lJlTqk7.png)
 
 **i ❤️ my gf !! （＾ω＾）**
+
+![](https://komarev.com/ghpvc/?username=100bottlesoglue&label=₍ᐢ.+.ᐢ₎)
