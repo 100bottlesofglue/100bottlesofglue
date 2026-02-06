@@ -11,7 +11,7 @@ THIS BELONGS TO THE GIYUU YUME
 ![div](https://i.imgur.com/XxKpagR.png)
 
 
-don't cry. don't despair.
+**don't cry. don't despair.**
 
 
 ![main](https://i.imgur.com/Zc2v6RV.png)
@@ -22,4 +22,4 @@ don't cry. don't despair.
 
 ![stamp](https://i.imgur.com/oc7ss7d.png)![stamp](https://i.imgur.com/lJlTqk7.png)
 
-i ❤️ my gf !! （＾ω＾）
+**i ❤️ my gf !! （＾ω＾）**
