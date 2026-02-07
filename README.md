@@ -16,7 +16,7 @@ THIS BELONGS TO THE GIYUU YUME
 
 ![main](https://i.imgur.com/Zc2v6RV.png)
 
-[ata](https://sizhui.atabook.org/)・ [rentry](https://rentry.co/soothing-waters)
+[ata](https://sizhui.atabook.org/)・[rentry](https://rentry.co/soothing-waters)
 
 ![div](https://i.imgur.com/XxKpagR.png)
 
