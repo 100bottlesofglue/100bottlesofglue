@@ -14,7 +14,7 @@ THIS BELONGS TO THE GIYUU YUME
 **don't cry. don't despair.**
 
 
-![main](https://i.imgur.com/Zc2v6RV.png)
+![main](https://i.imgur.com/1vCdgAT.png)
 
 [ata](https://sizhui.atabook.org/)・[rentry](https://rentry.co/soothing-waters)
 
