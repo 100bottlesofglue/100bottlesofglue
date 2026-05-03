@@ -1,4 +1,4 @@
-<img src="https://file.garden/ZuZ2lbGXMH8X3xdK/comm%20stuff/spoke/spokechib.png#left" width="300" align="left">
+<img src="https://file.garden/ZuZ2lbGXMH8X3xdK/comm%20stuff/spoke/spokechib.png#left" width="250" align="left">
 
 <table>
 <br>
