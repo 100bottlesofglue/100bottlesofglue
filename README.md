@@ -19,4 +19,4 @@
 
 <br>
 
-<img src="https://file.garden/ZuZ2lbGXMH8X3xdK/comm%20stuff/spoke/spokeborder.gif" width="600" align="center">
+<img src="https://file.garden/ZuZ2lbGXMH8X3xdK/comm%20stuff/spoke/spokeborder.gif" width="500" align="center">
