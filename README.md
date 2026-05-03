@@ -11,7 +11,7 @@
     </tr>
     </table>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dlxdhv2ygj5crz4qr6ikyni52e&cover_image=false&theme=novatorem&show_offline=true&background_color=000000&interchange=true&profanity=false&bar_color=A851A0&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31dlxdhv2ygj5crz4qr6ikyni52e&redirect=true)  <img src="https://komarev.com/ghpvc/?username=100bottlesofglue&style=for-the-badge&color=A851A0&label=NULL" alt="profile view counter" align="up">
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dlxdhv2ygj5crz4qr6ikyni52e&cover_image=false&theme=novatorem&show_offline=true&background_color=000000&interchange=true&profanity=false&bar_color=A851A0&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31dlxdhv2ygj5crz4qr6ikyni52e&redirect=true)  <img src="https://komarev.com/ghpvc/?username=100bottlesofglue&style=for-the-badge&color=A851A0&label=JEREMY" alt="profile view counter" align="up">
 <img src="https://file.garden/ZuZ2lbGXMH8X3xdK/comm%20stuff/spoke/spokeimage.gif" width="70" align="up">
 
 
