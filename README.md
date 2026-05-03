@@ -15,8 +15,8 @@
 <img src="https://file.garden/ZuZ2lbGXMH8X3xdK/comm%20stuff/spoke/spokeimage.gif" width="70" align="up">
 
 
-   ㅤ   ㅤ  ㅤ ㅤ         ${\textsf{\color{#B25E6E} ⺡}}$ ${\textsf{\color{#AB8168} ﹒}}$ ${\textsf{\color{#CBCD8F} ۶}}$ [rentry](https://rentry.co/duaIity)${\textsf{\color{#86A562} ⁺ }}$[ata](https://sizhui.atabook.org/) ${\textsf{\color{#569865} ﹑}}$ ${\textsf{\color{#447D83}✿}}$ ${\textsf{\color{#5D4887}゛}}$
+   ㅤ   ㅤ  ㅤ   ㅤ   ㅤ    ㅤ   ㅤㅤ   <img src="https://file.garden/ZuZ2lbGXMH8X3xdK/comm%20stuff/spoke/spokepix1.gif"> ${\textsf{\color{#B25E6E} ⺡}}$ ${\textsf{\color{#AB8168} ﹒}}$ ${\textsf{\color{#CBCD8F} ۶}}$ [rentry](https://rentry.co/duaIity)${\textsf{\color{#86A562} ⁺ }}$[ata](https://sizhui.atabook.org/) ${\textsf{\color{#569865} ﹑}}$ ${\textsf{\color{#447D83}✿}}$ ${\textsf{\color{#5D4887}゛}}$ <img src="https://file.garden/ZuZ2lbGXMH8X3xdK/comm%20stuff/spoke/spokeicon.png">
 
 <br>
 
-<img src="https://file.garden/ZuZ2lbGXMH8X3xdK/comm%20stuff/spoke/spokeborder.gif" width="400" align="center">
+<img src="https://file.garden/ZuZ2lbGXMH8X3xdK/comm%20stuff/spoke/spokeborder.gif" width="600" align="center">
