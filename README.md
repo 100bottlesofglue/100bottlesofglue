@@ -1,4 +1,4 @@
-<img src="https://file.garden/ZuZ2lbGXMH8X3xdK/comm%20stuff/spoke/spokechib.png#left" width="250" align="left">
+<img src="https://file.garden/ZuZ2lbGXMH8X3xdK/comm%20stuff/spoke/spokechib.png#left" width="300" align="left">
 
 <table>
 <br>
@@ -14,4 +14,3 @@
 <img src="https://file.garden/ZuZ2lbGXMH8X3xdK/comm%20stuff/spoke/spokeborder.gif" width="400" align="center">
 
 <img src="https://komarev.com/ghpvc/?username=100bottlesofglue&style=for-the-badge&color=A851A0&label=JEREMY" alt="profile view counter" align="left"> <img src="https://file.garden/ZuZ2lbGXMH8X3xdK/comm%20stuff/spoke/spokeimage.gif" width="50">
-
