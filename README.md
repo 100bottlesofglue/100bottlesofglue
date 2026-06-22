@@ -6,3 +6,4 @@
 
 I'll be remaking my github soon! 
 
+DNI BELOW 15 PEOPLE!! (minus already existing friends) 
