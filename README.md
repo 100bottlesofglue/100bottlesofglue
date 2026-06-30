@@ -25,3 +25,5 @@ ${\textsf{\color{#BDB9BF} sev idk what 2 put here}}$ ${\textsf{\color{#5D409F} o
    [link](.) here ur link << put whatever 
 
    fei outt brotha!!!
+
+   ignore this. this is a gift for a friend
