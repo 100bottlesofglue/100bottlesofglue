@@ -1,9 +1,28 @@
+<!--
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dlxdhv2ygj5crz4qr6ikyni52e&cover_image=false&theme=novatorem&show_offline=true&background_color=000000&interchange=true&profanity=false&bar_color=A851A0&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31dlxdhv2ygj5crz4qr6ikyni52e&redirect=true)  <img src="https://komarev.com/ghpvc/?username=100bottlesofglue&style=for-the-badge&color=A851A0&label=GEORGE+JR" alt="profile view counter" align="up">
+made by 100bottlesofglue on github
+im scratching my butt as i write this
+go crazy idk
+
+-->
 
 
-   ㅤ   ㅤ  ㅤ   ㅤ   ㅤ    ㅤ   ㅤ[rentry](https://rentry.co/dependenceduo) [ata](https://dol9hins.atabook.org/) [strawpage](https://conexion.straw.page/)
+<div align="center">
 
-DNI BELOW 15 PEOPLE!! (minus already existing friends) 
+<img src="https://komarev.com/ghpvc/?username=wubism&style=flat-square&color=5D409F&label=what+do+i+put+here?" alt="profile view counter">
+<br>
+    <br>
+<img src="https://file.garden/aYcjB7qxDC3tLALZ/wemmbu/partykilling" width="300" align="left">
+<br>
+    <br>
+         <br> 
+             <br>
+                  <br>
+                      <br>
+<div align="center">
+   
+${\textsf{\color{#BDB9BF} sev idk what 2 put here}}$ ${\textsf{\color{#5D409F} ominous purple text..}}$ ${\textsf{\color{#E5F0CE} txt}}$
 
-github wipmaxxing
+   [link](.) here ur link << put whatever 
+
+   fei outt brotha!!!
