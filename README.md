@@ -5,8 +5,8 @@
   <table>
     <tr>
       <td>
-     Iㅤhaveㅤaㅤheart,ㅤIㅤswearㅤIㅤdoㅤ! <br>
-    　Butㅤjustㅤnot,ㅤbaby,ㅤwhenㅤitㅤcomesㅤtoㅤyou! <br>
+     EveryㅤotherㅤdayㅤI'mㅤwondering.. <br>
+    　What'sㅤaㅤhumanbeingㅤgottaㅤbeㅤlike? <br>
       </td>
     </tr>
   </table>
