@@ -12,7 +12,7 @@ ${\textsf{\color{#ECDCEC} What's}}$ ${\textsf{\color{#F5D9D7} a}}$ ${\textsf{\co
   </table>
 
 <img src="https://file.garden/aYcjB7qxDC3tLALZ/spokegithub/spoke_rainbow.gif" width="20"> ${\textsf{\color{#F5D9D7} 𓂃}}$ ${\textsf{\color{#F5E0C4} ࣪}}$ ${\textsf{\color{#F8EAD5} ˖}}$ [rentry](https://rentry.co/dependenceduo) ${\textsf{\color{#E5F4D9}⁺}}$ [ata](https://dol9hins.atabook.org/)${\textsf{\color{#E4E1EB} ༝}}$ [strawpage](https://conexion.straw.page/) ${\textsf{\color{#ECDCEC}⭑}}$ ${\textsf{\color{#F4F3EA}؛༊}}$
-<img src="https://komarev.com/ghpvc/?username=100bottlesofglue&style=for-the-badge&color=B6B9B2&label=GEORGE+JR" alt="profile view counter" width="120" align="center">
+<img src="https://komarev.com/ghpvc/?username=100bottlesofglue&style=flat-square&color=B6B9B2&label=george+jr" alt="profile view counter" width="100" align="center">
 
 
  <details>
