@@ -17,12 +17,12 @@ ${\textsf{\color{#ECDCEC} What's}}$ ${\textsf{\color{#F5D9D7} a}}$ ${\textsf{\co
 
  <details>
   <summary> ${\textsf{\color{#F5D9D7}  ♡⃕　﹑}}$ ${\textsf{\color{#F5E0C4} click}}$ ${\textsf{\color{#F8EAD5} me}}$ ${\textsf{\color{#E5F4D9} 2}}$ ${\textsf{\color{#E4E1EB} show}}$ ${\textsf{\color{#ECDCEC} oomfies !}}$ ${\textsf{\color{#F4F3EA} ₊ ݁. • }}$ <img src="https://file.garden/aYcjB7qxDC3tLALZ/spokegithub/spoke_crackers.gif" width="20"> </summary><br>
-         $${\color{#feeae9}most \space commonly \space seen \space with \space ; }$$ <br>
-         $${\color{#feeae9}THE \space oomfies \space yay! \space ; }$$ <br>
-         $${\color{#feeae9}oomfies! \space ; }$$ <br>
-         $${\color{#feeae9}and \space my \space all \space green \space oomfies! \space I \space appreciate \space you \space all! }$$ <br>
+         $${\color{#F5D9D7}most \space commonly \space seen \space with \space ; }$$ <a href="https://github.com/Orcapaint">toki</a>, <a href="https://github.com/wubism">sev</a>, <a href="https://github.com/Glistenn">kaleb</a>  <img src="https://file.garden/aYcjB7qxDC3tLALZ/spokegithub/spoke_sleep.gif" width="20"> <br>
+         $${\color{#F5E0C4}THE \space oomfies \space yay! \space ; }$$ <br>
+         $${\color{#E4E1EB}oomfies! \space ; }$$ <br>
+         $${\color{#E5F4D9}and \space my \space all \space green \space oomfies! \space I \space appreciate \space you \space all! }$$ <br>
  </details>
 
-
+ 
 <img src="https://file.garden/aYcjB7qxDC3tLALZ/spokegithub/spoke_bottomboarder.png" width="300" align="left">
 
