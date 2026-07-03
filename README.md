@@ -2,10 +2,15 @@
 
 <img src="https://file.garden/aYcjB7qxDC3tLALZ/spokegithub/spoke_topboarder.gif" width="300" align="left">
 
+  <table>
+    <tr>
+      <td>
+     Iㅤhaveㅤaㅤheart,ㅤIㅤswearㅤIㅤdoㅤ! <br>
+    　Butㅤjustㅤnot,ㅤbaby,ㅤwhenㅤitㅤcomesㅤtoㅤyou! <br>
+      </td>
+    </tr>
+  </table>
 
-
-
-aahhh text here *scary*
 
 
 
