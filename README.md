@@ -5,8 +5,8 @@
   <table>
     <tr>
       <td>
-     EveryㅤotherㅤdayㅤI'mㅤwondering.. <br>
-    　What'sㅤaㅤhumanㅤbeingㅤgottaㅤbeㅤlike? <br>
+     <img src="https://file.garden/aYcjB7qxDC3tLALZ/spokegithub/spoke_sparkle.gif" width="20">ㅤEveryㅤotherㅤdayㅤI'mㅤwonderingㅤ(ᵕ^ᴗ^) <br>
+What'sㅤaㅤhumanㅤbeingㅤgottaㅤbeㅤlike?ㅤ₊˚⊹<br>
       </td>
     </tr>
   </table>
