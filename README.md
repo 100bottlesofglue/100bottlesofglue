@@ -1,3 +1,4 @@
+
 <img src="https://file.garden/aYcjB7qxDC3tLALZ/spokegithub/spoke_fishing.gif" width="350" align="left">
 
 <img src="https://file.garden/aYcjB7qxDC3tLALZ/spokegithub/spoke_topboarder.gif" width="300" align="left">
@@ -11,8 +12,13 @@ ${\textsf{\color{#ECDCEC} What's}}$ ${\textsf{\color{#F5D9D7} a}}$ ${\textsf{\co
     </tr>
   </table>
 
+text
 
-
+ <details>
+  <summary> ${\textsf{\color{#F4F3EA} txt}}$ </summary><br>
+text
+  </details>
+<img src="https://komarev.com/ghpvc/?username=100bottlesofglue&style=for-the-badge&color=A851A0&label=GEORGE+JR" alt="profile view counter" align="right">
 
 
 
