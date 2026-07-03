@@ -1,8 +1,6 @@
-<img src="https://komarev.com/ghpvc/?username=100bottlesofglue&style=for-the-badge&color=A851A0&label=GEORGE+JR" alt="profile view counter" align="center">
-
 <img src="https://file.garden/aYcjB7qxDC3tLALZ/spokegithub/spoke_fishing.gif" width="350" align="left">
 
-<img src="https://file.garden/aYcjB7qxDC3tLALZ/spokegithub/spoke_topboarder.gif" width="295" align="left">
+<img src="https://file.garden/aYcjB7qxDC3tLALZ/spokegithub/spoke_topboarder.gif" width="300" align="left">
   
   <table>
     <tr>
@@ -13,12 +11,15 @@ ${\textsf{\color{#ECDCEC} What's}}$ ${\textsf{\color{#F5D9D7} a}}$ ${\textsf{\co
     </tr>
   </table>
 
-text
+<img src="https://file.garden/aYcjB7qxDC3tLALZ/spokegithub/spoke_rainbow.gif" width="20">𓂃 ࣪˖ rentry ⁺ ata ༝ strawpage 𓈒  ⭑؛༊
+<img src="https://komarev.com/ghpvc/?username=100bottlesofglue&style=for-the-badge&color=B6B9B2&label=GEORGE+JR" alt="profile view counter" width="120" align="center">
+
 
  <details>
-  <summary> ${\textsf{\color{#F4F3EA} txt}}$ </summary><br>
+  <summary> ${\textsf{\color{#F4F3EA}  ♡⃕　﹑txt}}$ </summary><br>
 text
  </details>
 
-<img src="https://file.garden/aYcjB7qxDC3tLALZ/spokegithub/spoke_bottomboarder.png" width="295" align="left">
+
+<img src="https://file.garden/aYcjB7qxDC3tLALZ/spokegithub/spoke_bottomboarder.png" width="300" align="left">
 
