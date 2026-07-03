@@ -11,7 +11,7 @@ ${\textsf{\color{#ECDCEC} What's}}$ ${\textsf{\color{#F5D9D7} a}}$ ${\textsf{\co
     </tr>
   </table>
 
-<img src="https://file.garden/aYcjB7qxDC3tLALZ/spokegithub/spoke_rainbow.gif" width="20">𓂃 ࣪˖ rentry ⁺ ata ༝ strawpage 𓈒  ⭑؛༊
+<img src="https://file.garden/aYcjB7qxDC3tLALZ/spokegithub/spoke_rainbow.gif" width="20">𓂃 ࣪˖ [rentry](https://rentry.co/dependenceduo) ⁺ [ata](https://dol9hins.atabook.org/) ༝ [strawpage](https://conexion.straw.page/) 𓈒  ⭑؛༊
 <img src="https://komarev.com/ghpvc/?username=100bottlesofglue&style=for-the-badge&color=B6B9B2&label=GEORGE+JR" alt="profile view counter" width="120" align="center">
 
 
