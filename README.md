@@ -5,8 +5,8 @@
   <table>
     <tr>
       <td>
-     <img src="https://file.garden/aYcjB7qxDC3tLALZ/spokegithub/spoke_sparkle.gif" width="20">ㅤEveryㅤotherㅤdayㅤI'mㅤwonderingㅤ(ᵕ^ᴗ^) <br>
-What'sㅤaㅤhumanㅤbeingㅤgottaㅤbeㅤlike?ㅤ₊˚⊹<br>
+     <img src="https://file.garden/aYcjB7qxDC3tLALZ/spokegithub/spoke_bubbles.gif" width="20"> ${\textsf{\color{#F5D9D7} Every}}$ ${\textsf{\color{#F5D9D7} other}}$ ${\textsf{\color{#F5D9D7} day}}$ ${\textsf{\color{#F5D9D7} I'm}}$ ${\textsf{\color{#F5D9D7} wondering}}$   (ᵕ^ᴗ^) <br>
+What's   a   human   being   gotta   be   like?ㅤ₊˚⊹<br>
       </td>
     </tr>
   </table>
