@@ -18,7 +18,7 @@ ${\textsf{\color{#ECDCEC} What's}}$ ${\textsf{\color{#F5D9D7} a}}$ ${\textsf{\co
  <details>
   <summary> ${\textsf{\color{#F5D9D7}  ♡⃕　﹑}}$ ${\textsf{\color{#F5E0C4} click}}$ ${\textsf{\color{#F8EAD5} me}}$ ${\textsf{\color{#E5F4D9} 2}}$ ${\textsf{\color{#E4E1EB} show}}$ ${\textsf{\color{#ECDCEC} oomfies !}}$ ${\textsf{\color{#F4F3EA} ₊ ݁. • }}$ <img src="https://file.garden/aYcjB7qxDC3tLALZ/spokegithub/spoke_crackers.gif" width="20"> </summary><br>
          $${\color{#feeae9}most \space commonly \space seen \space with \space ; }$$ <br>
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ$${\color{#feeae9}best \space oomfies \space yay! \space ; }$$ <br>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ $${\color{#feeae9}best \space oomfies \space yay! \space ; }$$ <br>
    ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ $${\color{#feeae9}oomfies! \space ; }$$ <br>
    ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ $${\color{#feeae9}and \space my \space all \space green \space oomfies! \space I \space appreciate \space you \space all! }$$ <br>
  </details>
