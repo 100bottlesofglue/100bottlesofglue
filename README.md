@@ -11,12 +11,12 @@ ${\textsf{\color{#ECDCEC} What's}}$ ${\textsf{\color{#F5D9D7} a}}$ ${\textsf{\co
     </tr>
   </table>
 
-<img src="https://file.garden/aYcjB7qxDC3tLALZ/spokegithub/spoke_rainbow.gif" width="20">𓂃 ࣪˖ [rentry](https://rentry.co/dependenceduo) ⁺ [ata](https://dol9hins.atabook.org/) ༝ [strawpage](https://conexion.straw.page/) 𓈒  ⭑؛༊
+<img src="https://file.garden/aYcjB7qxDC3tLALZ/spokegithub/spoke_rainbow.gif" width="20"> ${\textsf{\color{#F5D9D7} 𓂃}}$ ${\textsf{\color{#F5E0C4} ࣪}}$ ${\textsf{\color{#F8EAD5} ˖}}$ [rentry](https://rentry.co/dependenceduo) ${\textsf{\color{#E5F4D9}⁺}}$ [ata](https://dol9hins.atabook.org/)${\textsf{\color{#E4E1EB} ༝}}$ [strawpage](https://conexion.straw.page/) ${\textsf{\color{#ECDCEC}⭑}}$ ${\textsf{\color{#F4F3EA}؛༊}}$
 <img src="https://komarev.com/ghpvc/?username=100bottlesofglue&style=for-the-badge&color=B6B9B2&label=GEORGE+JR" alt="profile view counter" width="120" align="center">
 
 
  <details>
-  <summary> ${\textsf{\color{#F4F3EA}  ♡⃕　﹑txt}}$ </summary><br>
+  <summary> ${\textsf{\color{#F5D9D7}  ♡⃕　﹑}}$ ${\textsf{\color{#F5E0C4} click}}$ ${\textsf{\color{#F8EAD5} me}}$ ${\textsf{\color{#E5F4D9} 2}}$ ${\textsf{\color{#E4E1EB} show}}$ ${\textsf{\color{#ECDCEC} oomfies !}}$ ${\textsf{\color{#F4F3EA} ₊ ݁. • }}$ <img src="https://file.garden/aYcjB7qxDC3tLALZ/spokegithub/spoke_crackers.gif" width="20"> </summary><br>
 text
  </details>
 
