@@ -6,7 +6,7 @@
     <tr>
       <td>
      EveryㅤotherㅤdayㅤI'mㅤwondering.. <br>
-    　What'sㅤaㅤhumanbeingㅤgottaㅤbeㅤlike? <br>
+    　What'sㅤaㅤhumanㅤbeingㅤgottaㅤbeㅤlike? <br>
       </td>
     </tr>
   </table>
