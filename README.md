@@ -24,4 +24,10 @@ ${\textsf{\color{#ECDCEC} What's}}$ ${\textsf{\color{#F5D9D7} a}}$ ${\textsf{\co
          $${\color{#F4F3EA}thank \space you!}$$<a href="https://github.com/pt-players">@pt-players</a> <img src="https://file.garden/aYcjB7qxDC3tLALZ/spokegithub/spoke_wings.gif" width="20"> <br>
  </details>
 
-<img src="https://file.garden/aYcjB7qxDC3tLALZ/spokegithub/spoke_bottomboarder.png" width="300" align="left">
+<img src="https://file.garden/aYcjB7qxDC3tLALZ/spokegithub/spoke_bottomboarder.png" width="300" align="center">
+
+<p align="left">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dlxdhv2ygj5crz4qr6ikyni52e&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dlxdhv2ygj5crz4qr6ikyni52e&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
