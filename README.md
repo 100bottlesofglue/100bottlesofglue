@@ -27,5 +27,3 @@ ${\textsf{\color{#ECDCEC} What's}}$ ${\textsf{\color{#F5D9D7} a}}$ ${\textsf{\co
  </details>
 
 <img src="https://file.garden/aYcjB7qxDC3tLALZ/spokegithub/spoke_bottomboarder.png" width="300" align="left">
-
-<img src="https://file.garden/aYcjB7qxDC3tLALZ/Recording_2026-07-10_020140.gif" width="300" align="center">
